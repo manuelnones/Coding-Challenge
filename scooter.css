@@ -1,0 +1,75 @@
+body{
+  background-image: url(img/scooter.jpg);
+  background-size: 1324px;
+}
+
+.container{
+  width: 900px;
+  height: 590px;
+  margin: 20px auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.container2{
+  text-align: left;
+  width: 700px;
+  margin: auto;
+}
+
+.logo{
+  width: 200px;
+  margin: 50px 50px 0px;
+}
+
+.where{
+  color: limegreen;
+  margin: 0px;
+}
+
+.rettangolo{
+  background-color: limegreen;
+  width: 700px;
+  height: 36px;
+  margin: auto;
+}
+
+section.prenotation>input{
+  margin: 10px 0px;
+}
+
+.scooter{
+  color: #FFFFFF;
+  display: inline-block;
+  margin: auto;
+}
+
+.road{
+  margin: auto;
+  color: white;
+}
+
+.charge{
+  display: inline-block;
+  width: 300px;
+  height: 25px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.charge1{
+  display: inline-block;
+  width: 500px;
+  height: 25px;
+  background-color: green;
+  border-radius: 5px;
+}
+
+.charge2{
+  display: inline-block;
+  width: 150px;
+  height: 25px;
+  background-color: darkred;
+  border-radius: 5px;
+}
